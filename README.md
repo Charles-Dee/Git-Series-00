@@ -12,3 +12,9 @@
 
  # 4. Added Local Image
  ![This a picture of youthsports](IMAGES/1920_youthsports.jpg)
+
+ # 5. Lessons Learnt
+ The main concept learnt is the synergy between Github and Github desktop. relatively new to using Vs code and it is interesting to see how it serves as the playground for the tracking going on.
+
+ Main commands used were Commit and Push and Ctrl S
+ It took me 3 hours to wrap up
